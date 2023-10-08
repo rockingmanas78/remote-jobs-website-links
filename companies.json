@@ -1,0 +1,117 @@
+[
+  {
+    "name": "1. Toptal",
+    "link": "https://www.toptal.com/",
+    "description": "Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers and project managers in the world. Top companies hire Toptal freelancers for their projects."
+  },
+  {
+    "name": "2. X-Team",
+    "link": "https://x-team.com/",
+    "description": "X-Team is a community for developers where you can get long-term remote jobs with leading brands."
+  },
+  {
+    "name": "3. Turing",
+    "link": "https://www.turing.com/",
+    "description": "Find remote software jobs with companies based in the US on Turing. Join a network of the world's best developers & get full-time, long-term remote software jobs with better compensation and career growth."
+  },
+  {
+    "name": "4. Gun.io",
+    "link": "https://gun.io/",
+    "description": "Gun.io helps you find freelance and salaried jobs for tech professionals."
+  },
+  {
+    "name": "5. Lemon.io",
+    "link": "https://lemon.io/",
+    "description": "Lemon.io is the perfect place for English-speaking professionals who have three or more years of experience with a particular technology."
+  },
+  {
+    "name": "6. Freeup",
+    "link": "https://www.freeup.net/",
+    "description": "Find remote job openings on Freeup."
+  },
+  {
+    "name": "7. Dribbble",
+    "link": "https://dribbble.com/",
+    "description": "Dribbble's project board is an exclusive resource for contract graphic design work. It's perfect for freelancers, agencies and moonlighters. Dribbble also has a remote job board and a full-time job board."
+  },
+  {
+    "name": "8. Women Who Code",
+    "link": "https://www.womenwhocode.com/",
+    "description": "Women Who Code has a job board which has listings for roles of all experiences and you can find remote jobs there as well!"
+  },
+  {
+    "name": "9. No Desk",
+    "link": "https://nodesk.co/",
+    "description": "Find remote jobs on NoDesk and connect with companies that offer you freedom to work remotely from home or places around the world."
+  },
+  {
+    "name": "10. Remoters",
+    "link": "https://remoters.net/",
+    "description": "Find your dream remote-based job on Remoters and start working from home."
+  },
+  {
+    "name": "11. Just Remote",
+    "link": "https://justremote.co/",
+    "description": "Discover remote jobs from around the world on JustRemote. Give up the commute, work remotely and do what you love, daily, from anywhere."
+  },
+  {
+    "name": "12. LinkedIn",
+    "link": "https://www.linkedin.com/",
+    "description": "Did you know that you can set the location filter to remote and find remote-based jobs on LinkedIn as well?"
+  },
+  {
+    "name": "13. React-Jobs",
+    "link": "https://reactjobsboard.com/",
+    "description": "React-Jobs help you find remote ReactJS jobs and work remotely with React, React Native, GraphQL and more."
+  },
+  {
+    "name": "14. Remote In Tech",
+    "link": "https://remoteintech.company/",
+    "description": "RemoteInTech is a list of semi to fully remote-friendly companies in or around tech."
+  },
+  {
+    "name": "15. Remote.co",
+    "link": "https://remote.co/",
+    "description": "Discover the best remote developer jobs. Whether you're a front end programmer or a back end engineer, you can find developer job opportunities on Remote.co that allow remote work."
+  },
+  {
+    "name": "16. Remote OK",
+    "link": "https://remoteok.io/",
+    "description": "Remote OK is a remote job board that connects employers with flexible job seekers. Their audience reach is more than 1 million, granting employers access to a large global community of remote professionals."
+  },
+  {
+    "name": "17. Wellfound (formerly AngelList Talent)",
+    "link": "https://talent.wellfound.com/",
+    "description": "Find startup jobs near you as well as remote jobs around the world on Wellfound."
+  },
+  {
+    "name": "18. We Work Remotely",
+    "link": "https://weworkremotely.com/",
+    "description": "We Work Remotely is the largest remote work community in the world. With over 3 million visitors, WWR is the number one destination to find and list incredible remote jobs."
+  },
+  {
+    "name": "19. JS Remotely",
+    "link": "https://jsremotely.com/",
+    "description": "Find new remote JavaScript, Node.js, Angular, React, Vue or Electron jobs from 200+ posted jobs on JS Remotely."
+  },
+  {
+    "name": "20. Stack Overflow",
+    "link": "https://stackoverflow.com/jobs",
+    "description": "Stack Overflow's job board has no fake job listings and will never send you recruiter spam."
+  },
+  {
+    "name": "21. G2i",
+    "link": "https://www.g2i.co/",
+    "description": "G2i is a hiring platform created by developers that connects you to high-quality remote jobs focused on React, React Native, and Node.js."
+  },
+  {
+    "name": "22. Remotive",
+    "link": "https://remotive.io/",
+    "description": "Remotive helps you find your dream remote job without the hassle."
+  },
+  {
+    "name": "23. Lancerlist",
+    "link": "https://lancerlist.com/",
+    "description": "Lancerlist is a directory of freelancers that aims to search and connect businesses and individuals to freelance professionals in their city."
+  }
+]

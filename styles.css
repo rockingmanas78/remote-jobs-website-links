@@ -1,0 +1,141 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: beige;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.title {
+  width: 90%;
+  background-color: darkorange;
+  padding: 10px 3rem;
+  border-radius: 5px;
+  box-shadow: 5px 4px 5px rgba(0, 0, 0, 0.5);
+}
+
+.title > h1 {
+  font-size: 45px;
+  font-weight: 800;
+}
+.tags {
+  list-style: none;
+  padding: 0;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+
+.tag {
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: antiquewhite;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  align-items: flex-start;
+}
+
+.company-item {
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.company-link {
+  font-size: 30px;
+  font-weight: 800;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.company-description {
+  font-weight: 500;
+  line-height: 1.5rem;
+  color: #666;
+}
+
+.company-item:hover {
+  background-color: antiquewhite;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin: 15px;
+  }
+
+  .title > h1 {
+    font-size: 35px;
+  }
+
+  .title {
+    width: 100%;
+    padding: 10px 15px;
+  }
+
+  ul {
+    width: 100%;
+  }
+
+  .company-item {
+    padding: 8px;
+    margin: 8px;
+  }
+}
+
+@media (max-width: 468px) {
+  .container {
+    margin: 10px;
+  }
+
+  .title > h1 {
+    font-size: 30px;
+  }
+
+  .title {
+    padding: 10px 15px;
+  }
+  .tags {
+    flex-wrap: wrap;
+    font-size: 15px;
+    margin: 5px;
+    margin-bottom: 10px;
+    gap: 10px;
+  }
+  .company-link {
+    font-size: 25px;
+  }
+}
